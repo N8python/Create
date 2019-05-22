@@ -9,4 +9,5 @@ int main(void){
   Point* myPoint = (Point*)malloc(sizeof(Point));
   //After...
   Point* myPoint2 = create(Point);
+  return 0;
 }
